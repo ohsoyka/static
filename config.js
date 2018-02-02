@@ -11,7 +11,7 @@ const config = {
   },
 
   production: {
-    port: 3100,
+    port: 3400,
 
     git: {
       repo: 'git@bitbucket.org:soyka/static.git',
