@@ -14,8 +14,14 @@ const config = {
     port: 3100,
 
     git: {
-      repo: 'git@github.com:ohsoyka/static.git',
+      repo: 'git@bitbucket.org:soyka/static.git',
       branch: 'stable',
+    },
+
+    server: {
+      host: '46.101.99.203',
+      username: 'poohitan',
+      folder: '~/ohsoyka.com/static',
     },
 
     pm2: {
