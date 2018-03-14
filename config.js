@@ -14,7 +14,7 @@ const config = {
     port: 3400,
 
     git: {
-      repo: 'git@bitbucket.org:soyka/static.git',
+      repo: 'git@github.com:ohsoyka/static.git',
       branch: 'stable',
     },
 
